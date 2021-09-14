@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 Atualmente estudando sobre microsserviços e arquitetura de software e boas práticas.
 -->
 
-- 🔭 Sou desenvolvedor e também sou professor e instrutor de programação.
+- 🔭 Sou desenvolvedor, professor e instrutor de programação.
 - 🌱 Atualmente estudando sobre microsserviços, testes de software, arquitetura de software e boas práticas em geral.
 
  <div>
