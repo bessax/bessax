@@ -35,7 +35,6 @@ Here are some ideas to get you started:
   <a href="www.linkedin.com/in/andre-bessa-silva-xti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=black" target="_blank"></a>  
 
 </div>  
-  ##
- <div>   
-    ![Snake animation](https://github.com/bessax/bessax/blob/output/github-contribution-grid-snake.svg)
- </div>
+
+ ![Snake animation](https://github.com/bessax/bessax/blob/output/github-contribution-grid-snake.svg)  
+
