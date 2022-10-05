@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
  <div>
   <a href="https://github.com/bessax">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bessax&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bessax/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bessax&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   
