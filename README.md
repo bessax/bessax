@@ -11,10 +11,11 @@ Here are some ideas to get you started:
 - 🌱 Atualmente estudando sobre microsserviços, testes de software, arquitetura de software e boas práticas em geral.
 
  <div>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bessax)](https://github.com/bessax/github-readme-stats)
+
   <a href="https://github.com/bessax">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bessax&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"&pat_1=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/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bessax&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bessax&theme=dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bessax&theme=dark&show_icons=true"/>
+   
 </div>
   
  <div style="display: inline_block"><br>
