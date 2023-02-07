@@ -18,7 +18,7 @@ Here are some ideas to get you started:
    
 </div>
   
- <div style="display: inline_block"><br>
+ <div style="display: inline_block" align="center"><br>
   <img align="center" alt="bessax-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="bessax-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="bessax-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
