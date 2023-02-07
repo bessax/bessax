@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 Sou desenvolvedor, professor e instrutor de programação.
 - 🌱 Atualmente estudando sobre microsserviços, testes de software, arquitetura de software e boas práticas em geral.
 
- <div>
+ <div align="center">
 
   <a href="https://github.com/bessax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bessax&theme=dark&show_icons=true"/>
