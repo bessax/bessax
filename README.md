@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 Sou desenvolvedor, professor e instrutor de programação.
 - 🌱 Atualmente estudando sobre microsserviços, testes de software, arquitetura de software e boas práticas em geral.
 
-<!--
+
  <div align="center">
 
   <a href="https://github.com/bessax">
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bessax&theme=dark&show_icons=true"/>
    
 </div>
-  -->
+
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="bessax-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="bessax-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
