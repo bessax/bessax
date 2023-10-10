@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Sou desenvolvedor, professor e instrutor de programação.
-- 🌱 Atualmente estudando sobre microsserviços, testes de software, arquitetura de software e boas práticas em geral.
+- 🌱 Atualmente estudando (sempre), testes de software, arquitetura de software e boas práticas em geral.
 
 
  <div align="center">
