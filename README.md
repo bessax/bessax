@@ -1,6 +1,6 @@
 ### Olá! André Bessa aqui!😉
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right">
 
 <!--
 **bessax/bessax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
