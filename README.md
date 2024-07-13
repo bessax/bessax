@@ -5,7 +5,7 @@
 <!--
 **bessax/bessax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-- 🔭 Sou desenvolvedor e hohe trabalho como desenvolvedor, professor e instrutor de programação.
+- 🔭 Sou programador e hohe trabalho como desenvolvedor, professor e instrutor de programação.
 - 🌱 Atualmente (sempre) estudando sobre  arquitetura de software e boas práticas.
 -->
 
