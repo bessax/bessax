@@ -1,45 +1,41 @@
-### Olá! André Bessa aqui!😉
+# Olá, tudo bem? 👋
+## Sou André Bessa, Analisat de Sistema & Desenvolvedor apaixonado por tecnologia e educação!
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right">
 
-<!--
-**bessax/bessax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 Sou programador e hohe trabalho como desenvolvedor, professor e instrutor de programação.
-- 🌱 Atualmente (sempre) estudando sobre  arquitetura de software e boas práticas.
--->
+Meu nome é André, sou desenvolvedor de software, professor de tecnologia e instrutor de programação com experiência em desenvolvimento de sistemas e ensino em cursos de graduação,técnicos e livres. Apaixonado por compartilhar conhecimento e comunidades além de ajudar outras pessoas a evoluírem na área de tech.
 
-- 🔭 Sou desenvolvedor, professor e instrutor de programação.
-- 🌱 Atualmente estudando (sempre), testes de software, arquitetura de software e boas práticas em geral.
+---
 
+## 🚀 Sobre mim
+- 📘 Estou sempre aprendendo e explorando novas tecnologias, arquitetura de software e boas práticas de desenvolvimento.
+- 👨‍🏫 Atuo como desenvolvedor backend C# e professor de graduação em Sistemas de Informação — acredito que compartilhar é uma das melhores formas de aprender.
+- 🧪 Tenho interesse em testes de software, devops, docker, kubernetes, cloud, IA e qualidade de código.
+- ❤️ Apaixonado por C#, .NET, Java e pelo ecossistema de desenvolvimento web.
 
- <div align="center">
+---
 
-  <a href="https://github.com/bessax">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bessax&theme=dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bessax&theme=dark&show_icons=true"/>
-   
-</div>
+## 🧑‍💻 Stack & Tecnologias
 
- <div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="bessax-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="bessax-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="bessax-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="bessax-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="bessax-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="bessax-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="bessax-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="bessax-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="bessax-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
-  <img align="center" alt="bessax-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="bessax-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="bessax-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="bessax-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="bessax-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="bessax-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="bessax-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="bessax-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="bessax-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="bessax-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
-  
-  ##
-  
-  <div>   
-  <a href="www.linkedin.com/in/andre-bessa-silva-xti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=black" target="_blank"></a>  
 
-</div>  
+---
 
- ![Snake animation](https://github.com/bessax/bessax/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/bessax/bessax/blob/output/github-contribution-grid-snake.svg) 
 
+---
+
+### Siga-me nas redes:
+[![LinkedIn](https://badgen.net/badge/Linkedin/bessaxdev?icon=linkedin)](https://www.linkedin.com/in/bessaxdev/)
+[![Instagram](https://badgen.net/badge/instagram/bessaxdev?icon=instagram)](https://www.instagram.com/bessax.dev/)
