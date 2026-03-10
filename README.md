@@ -1,5 +1,5 @@
 # Olá, tudo bem? 👋
-## Sou André Bessa, Analisat de Sistema & Desenvolvedor apaixonado por tecnologia e educação!
+## Sou André Bessa, Analista de Sistema & Desenvolvedor apaixonado por tecnologia e educação!
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right">
 
